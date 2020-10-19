@@ -1,5 +1,6 @@
 # BlackDuckKeyboard
-A fully 3D printed 40% keyboard powered by QMK
+A fully 3D printed 40% keyboard powered by QMK  
+This is one of my older projects, originally from 2018, which I have recently ported to GitHub  
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
