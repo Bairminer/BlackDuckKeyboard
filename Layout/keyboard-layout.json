@@ -1,0 +1,128 @@
+[
+  {
+    "background": {
+      "name": "Carbon fibre 7",
+      "style": "background-image: url('/bg/carbonfibre/carbon_texture1877.jpg');"
+    }
+  },
+  [
+    {
+      "t": "#000000\n#0500ff\n#ff0000"
+    },
+    "Esc\nF1\n`",
+    "Q\nF2\n1",
+    {
+      "t": "#000000\n#0500ff\n#ff0000\n#00ff29"
+    },
+    "W\nUp\n2\nF3",
+    {
+      "t": "#000000\n#0500ff\n#ff0000"
+    },
+    "E\nF4\n3",
+    "R\nF5\n4",
+    "T\nF6\n5",
+    "Y\nF7\n6",
+    "U\nF8\n7",
+    "I\nF9\n8",
+    {
+      "t": "#000000\n#0500ff\n#ff0000\n#00ff29"
+    },
+    "O\n[\n9\nF10",
+    "P\n]\n0\nF11",
+    {
+      "t": "#000000\n#0500ff"
+    },
+    "Back<br>Space\nF12"
+  ],
+  [
+    {
+      "t": "#000000\n\n\n#00ff29",
+      "w": 1.25
+    },
+    "Ctrl\n\n\nCaps",
+    {
+      "t": "#000000\n#0500ff"
+    },
+    "A\nLeft",
+    "S\nDown",
+    "D\nRight",
+    {
+      "t": "#000000"
+    },
+    "F",
+    "G",
+    {
+      "t": "#000000\n\n#ff0000"
+    },
+    "H\n\nHm",
+    {
+      "t": "#000000\n#0500ff\n#ff0000"
+    },
+    "J\nScrLk\nIns",
+    "K\nPgUp\n;",
+    "L\nUp\n'",
+    {
+      "w": 1.75
+    },
+    "Enter\nPS\n\\"
+  ],
+  [
+    {
+      "t": "#000000",
+      "w": 1.75
+    },
+    "Shift",
+    {
+      "t": "#000000\n\n#ff0000"
+    },
+    "Z\n\nRGB",
+    "X\n\nBUp",
+    "C\n\nBDn",
+    "V\n\nBMd",
+    "B\n\nEnd",
+    {
+      "t": "#000000\n#0500ff\n#ff0000"
+    },
+    "N\nPB\nDel",
+    "M\nPgDn\n<",
+    {
+      "t": "#000000\n#0500ff"
+    },
+    ">\nLeft",
+    {
+      "t": "#000000\n#0500ff\n#ff0000",
+      "w": 1.25
+    },
+    "Shift\nRight\n?",
+    {
+      "t": "#ff0000"
+    },
+    "Fn"
+  ],
+  [
+    {
+      "x": 0.5,
+      "t": "#000000"
+    },
+    "Alt",
+    {
+      "w": 1.25
+    },
+    "Meta",
+    {
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "t": "#000000\n#0500ff",
+      "a": 4,
+      "w": 1.25
+    },
+    "Menu\nDown",
+    {
+      "t": "#0029ff\n\n\n\n\n\n\n#00ff47"
+    },
+    "Fn2\n\n\n\n\n\n\nFn3"
+  ]
+]
