@@ -12,7 +12,7 @@ The physical layout of this keyboard is inspired by the HHKB Pro 2. Keybinds can
 All switches are connected to the Teensy 2.0 controller via the following diagram, in a column to row diode configuration:  
 ![Wiring](/Images/wiring.png)  
 ## Firmware
-This keyboard is powered by the open source QMK firmware, available at https://github.com/qmk/qmk_firmware. I used https://kbfirmware.com/ to create the keybind definitions, and my configuration json, along with a precompiled hex file and QMK source code can be found in the Code folder. To flash the hex file, download Teensy Loader from https://www.pjrc.com/teensy/loader.html, load the hex file, press the white button on the Teensy, then click program in Teensy Loader. 
+This keyboard is powered by the open source QMK firmware, available at https://github.com/qmk/qmk_firmware. I used https://kbfirmware.com/ to create the keybind definitions, and my configuration json along with a precompiled hex file and QMK source code can be found in the Code folder. To flash the hex file, download Teensy Loader from https://www.pjrc.com/teensy/loader.html, load the hex file, press the white button on the Teensy, then click program in Teensy Loader. 
 
 ## License
 This work is licensed under a
