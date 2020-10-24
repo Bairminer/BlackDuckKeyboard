@@ -9,10 +9,10 @@ The case consists of 3 sections (Bottom, Plate, and Case) which are then split i
 ![Layout](/Images/keymap.png)  
 The physical layout of this keyboard is inspired by the HHKB Pro 2. Keybinds can be reconfigured to your liking via the QMK firmware. The layout was designed using http://www.keyboard-layout-editor.com/  
 ## Wiring
-All switches are connected to the Teensy 2.0 controller via the following diagram, in a column to row diode configuration:  
+All switches are handwired to the Teensy 2.0 controller via the following diagram, in a column to row diode configuration. An optional 10 LED WS2812B strip for RGB underglow can be connected to D4.  
 ![Wiring](/Images/wiring.png)  
 ## Firmware
-This keyboard is powered by the open source QMK firmware, available at https://github.com/qmk/qmk_firmware. I used https://kbfirmware.com/ to create the keybind definitions, and my configuration json along with a precompiled hex file and QMK source code can be found in the Code folder. To flash the hex file, download Teensy Loader from https://www.pjrc.com/teensy/loader.html, load the hex file, press the white button on the Teensy, then click program in Teensy Loader. 
+This keyboard is powered by the open source QMK firmware, available at https://github.com/qmk/qmk_firmware. I used https://kbfirmware.com/ to create the keybind definitions and my configuration json. A precompiled hex file and QMK source code can be found in the Code folder, along with the kbfirmware confgiguration json. To flash the hex file, download Teensy Loader from https://www.pjrc.com/teensy/loader.html, load the hex file, press the white button on the Teensy, then click program in Teensy Loader. 
 
 ## License
 This work is licensed under a
