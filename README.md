@@ -4,7 +4,7 @@ This is one of my older projects, originally from 2018, which I have recently po
 
 ## Case
 ![Case](/Images/model.png)  
-The case consists of 3 sections (Bottom, Plate, and Case) which are then split into 2 individual pieces for easier 3D printing. All screw holes are designed for 20mm long M2 screws. STL files can be found in the CADs folder. It is recomended that you hot glue the switches in place, or they may come loose when removing keycaps.
+The case consists of 3 sections (Bottom, Plate, and Case) which are then split into 2 individual pieces for easier 3D printing. All screw holes are designed for 20mm long M2 screws. STL files can be found in the CADs folder. It is recomended that you hot glue the switches in place, or they may come loose when removing keycaps. Layers were generated using http://builder.swillkb.com/
 ## Layout
 ![Layout](/Images/keymap.png)  
 The physical layout of this keyboard is inspired by the HHKB Pro 2. Keybinds can be reconfigured to your liking via the QMK firmware. The layout was designed using http://www.keyboard-layout-editor.com/  
